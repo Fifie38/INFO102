@@ -1,0 +1,352 @@
+Le contenu suivant est extrait d'un document de l'ADEME disponible ici https://librairie.ademe.fr/consommer-autrement/4098-face-cachee-du-numerique-9791029716904.html#/44-type_de_produit-format_electronique 
+
+Viser longévité et sobriété
+  
+Ordinateurs, assistants vocaux, tablettes, smartphones,
+montres connectées… Nous sommes de plus en plus
+équipés et renouvelons ce matériel très rapidement,
+ce qui n'est pas sans conséquences.
+
+Des objets qui pèsent lourd sur l’environnement
+
+Les objets numériques ont des impacts sur l'environnement,
+principalement lors des étapes relatives à l'extraction de matières
+premières et de fabrication des composants.
+
+LE CYCLE DE VIE D'UN ORDINATEUR
+cycle_de_vie.png
+
+Paradoxalement, plus on « dématérialise », plus on utilise de
+matières.Et plus on miniaturise et complexifie les composants,
+plus on alourdit leur impact sur l'environnement. En effet, la
+production de composants complexes exige beaucoup d'énergie,
+des traitements chimiques et des métaux rares : le tantale, par
+exemple, indispensable aux téléphones portables ; ou l'indium,
+indispensable aux écrans plats LCD. Les fabricants sont en train
+d'épuiser ces minerais précieux à un rythme inégalé, et ce dans
+des mines où les conditions de travail sont souvent inacceptables.
+
+EN SAVOIR PLUS
+Infographie « Des ressources qui pourraient manquer »
+https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/ 
+
+En moyenne, il faut mobiliser de 50 à 350 fois leur poids
+en matières pour produire des appareils électriques à forte
+composante électronique, soit par exemple 600 kg pour un
+ordinateur portable et 500 kg pour une box Internet.
+
+Pas moins de 70 matériaux différents, dont 50 métaux (notamment
+des métaux rares) sont nécessaires pour fabriquer un smartphone.
+Une tendance qui s'est accrue. Nos téléphones portables ne
+contenaient qu'une vingtaine de métaux il y a dix ans...
+
+La phase de fabrication s'avère aussi plus énergivore que la phase
+d'utilisation du produit par les consommateurs. Plus émettrice
+en CO2 aussi, puisque la plupart des composants sont fabriqués
+en Chine ou en Corée, dont l'électricité provient du charbon et
+pèse donc lourdement dans le changement climatique. Leur
+transport (en avion le plus souvent) vient encore alourdir le bilan.
+
+Pour limiter ces impacts, il est essentiel d'éviter de remplacer
+trop fréquemment nos objets et d'allonger leur durée de vie.
+D'autant plus que le recyclage des composants électroniques
+est complexe et onéreux.
+
+EN SAVOIR PLUS
+Infographie «  Ces objets qui pèsent lourd dans notre quotidien » :
+https://multimedia.ademe.fr/infographies/infographie-poids-carbone/
+
+Garder plus longtemps ses équipements
+
+Phénomènes de mode, évolution rapide des technologies, nouveaux
+usages… Nos ordinateurs, tablettes, smartphones, objets connectés
+sont encore souvent en état de marche quand nous les remplaçons.
+
+Faire durer nos équipements numériques constitue le geste le
+plus efficace pour diminuer leurs impacts : passer de 2 à 4 ans
+d’usage pour une tablette ou un ordinateur améliore de 50 %
+son bilan environnemental.
+
+anciens_portables.png
+88% des français changent de portable alors que l'ancien fonctionne encore
+
+Évitez de remplacer vos équipements numériques en cédant
+aux modes… ou suite à une offre promotionnelle.
+
+Entretenez-les et installez des protections contre les virus et
+les programmes ou logiciels malveillants (malwares) : vous éviterez
+des pannes et ferez des économies.
+
+Équipez votre smartphone d'une coque, d'un verre trempé (qui
+protège l’écran de la casse) ou film protecteur (qui protège l’écran
+des rayures).
+
+Pensez au don, au troc ou à la vente d'occasion quand vous
+les remplacez et qu'ils sont encore en état de marche.
+
+LE MATÉRIEL RECONDITIONNÉ, VOUS CONNAISSEZ ?
+Le reconditionnement augmente la durée de vie des
+équipements, limite la consommation d’énergie et de matières
+premières, ainsi que la production de déchets. Le principe :
+remettre sur le marché des ordinateurs et des téléphones, après
+les avoir nettoyés, révisés et vérifiés. Un appareil reconditionné,
+donc performant et en très bon état, est généralement plus cher
+qu’un simple appareil d’occasion. Il bénéficie d'une garantie légale
+minimale de 6 mois (qui passera à 12 mois à partir du 1er janvier
+2022) à laquelle peut s’ajouter une garantie commerciale
+proposée par le vendeur.
+
+Privilégiez la réparation au remplacement en cas de panne. Si
+vous êtes bricoleur, vous trouverez sur le net des solutions pour
+réparer des pannes simples. Si vous ne préférez pas vous y risquer,
+renseignez-vous sur le coût prévisible de la réparation auprès
+d'un professionnel ou prenez rendez-vous dans un lieu de
+réparation collaboratif de type Repair Café.
+
+reparations.png
+Sur les 30 % des français ayant connu une panne d'ordinateur, 52 % l’ont
+réparé et 41 % l’ont remplacé, majoritairement par du neuf. Dans 58 %
+des cas, l'équipement en panne a été jeté.
+
+UN SITE POUR VOUS FACILITER LA TÂCHE
+Pour des conseils et des solutions concrètes pour faire durer
+tous les équipements de la maison, consultez le site
+http://longuevieauxobjets.gouv.frlonguevieauxobjets.gouv.fr
+
+EN SAVOIR PLUS
+Guide de l'ADEME « Les impacts du smartphone »
+https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-impacts-smartphone.pdf
+Fiche de l'ADEME « Faire durer ses objets » https://www.ademe.fr/sites/default/files/assets/documents/fiche-comment-faire-durer-ses-objets.pdf
+http://www.ordi3-0.frwww.ordi3-0.fr sur les appareils reconditionnés
+Le site des Repair Cafés : http://repaircafe.org/frrepaircafe.org/fr
+L'annuaire de la réparation : http://www.annuaire-reparation.frwww.annuaire-reparation.fr
+
+Utilisez la garantie légale de conformité de 2 ans qui s'applique
+à tous les produits achetés en magasin ou sur Internet, en cas
+de besoin. Comme les vendeurs n'ont pas l'obligation de l'indiquer
+au moment de la vente, de nombreux consommateurs connaissent
+mal leurs droits. Cette garantie est différente de la garantie dite
+« commerciale » proposée par le vendeur en supplément et qui
+n’est pas obligatoire.
+
+QUAND S'APPLIQUE LA GARANTIE LÉGALE DE CONFORMITÉ ?
+Le vendeur professionnel doit réparer ou remplacer
+gratuitement si le produit :
+ne correspond pas à la publicité ou
+à la description faite par le vendeur ;
+est impropre à l’usage habituellement attendu
+d’un bien semblable ;
+présente un défaut de fabrication, une imperfection,
+un mauvais assemblage ;
+n'a pas été installé correctement par le vendeur ;
+est accompagné d'un manuel d'installation incomplet
+ou incompréhensible, ce qui empêche de monter
+l'appareil convenablement.
+
+EN SAVOIR PLUS
+« Achats neufs ou d’occasion : quand faire jouer la garantie légale de conformité ? »
+https://agirpourlatransition.ademe.fr/particuliers/conso/droit-conso/achats-neufs-doccasion-quand-faire-jouer-garantie-legale-conformiteArticle
+
+S’équiper léger
+
+Achetez du matériel adapté à vos besoins : avez-vous vraiment
+besoin d’un ordinateur ou bien une tablette (plus économe en
+énergie) peut-elle suffire ? Si vous imprimez peu, pourquoi ne
+pas choisir un lieu public pour le faire ? (bibliothèque, magasin
+de reprographie…) ?
+
+À quoi bon investir dans un smartphone coûteux dont vous
+n'utiliserez pas toutes les fonctionnalités (avec une capacité de
+mémoire trop importante, un processeur trop puissant ou un
+écran tactile trop grand par rapport à vos usages) ?
+
+DES ÉQUIPEMENTS PLUS OU MOINS ÉCONOMES
+
+Équipement
+Consommation d'énergie
+
+Smartphone
+de 2 à 7 kWh / an
+
+Tablette
+de 5 à 15 kWh / an
+
+Écran
+de 20 à 100 kWh / an
+
+Ordinateur portable
+de 30 à 100 kWh / an
+
+Ordinateur fixe
+de 120 à 250 kWh / an
+
+Box (Internet +TV)
+de 150 à 300 kWh / an
+
+Sources : ADEME et GreenIt
+
+Choisissez des appareils porteurs de labels environnementaux
+recommandés par l'ADEME qui garantissent que ces produits
+sont plus respectueux de l'environnement sur l'ensemble de leur
+cycle de vie.
+
+Label
+Appareils concernés
+Signification
+
+Epeat.png
+
+Ordinateurs,
+écrans, tablettes
+et téléphones
+portables
+
+Plus durables, économes en
+énergie, réparables, recyclables et
+respectueux de critères sociaux
+(exigences sur la santé et sécurité
+au travail). Absence ou limitation de
+certaines substances dangereuses
+pour la santé (phtalate, métaux
+lourds).
+
+TCO.png
+
+Ordinateurs, écrans
+et tablettes
+
+EN SAVOIR PLUS
+Pour choisir des équipements plus respectueux de l’environnement :
+Sur internet : https://agirpourlatransition.ademe.fr/particuliers/labels-environnementauxhttps://agirpourlatransition.ademe.fr/particuliers/labels-environnementaux
+Guide Topten : http://www.guidetopten.frwww.guidetopten.fr
+
+Ne multipliez pas les matériels : un appareil multifonction
+(imprimante + photocopieur + scanner) consomme moins que
+trois appareils indépendants. Privilégiez aussi les imprimantes
+qui permettent le remplacement indépendant de chaque couleur.
+
+imprimante.png
+Une imprimante peut représenter un coût plus important qu'on ne le pense car le renouvellement des cartouches d'encre est souvent onéreux.
+	
+Limiter les consommations d'énergie
+
+Le secteur des nouvelles technologies représente à lui seul entre
+6 et 10 % de la consommation mondiale d’électricité selon les
+estimations – soit près de 4 % de nos émissions de gaz à effet de
+serre. Et la tendance est franchement à la hausse.
+
+Cette consommation électrique est imputable pour environ 30 %
+aux équipements terminaux – ordinateurs, téléphones, objets
+connectés –, pour 30 % aux data centers qui hébergent nos données
+et, plus surprenant, pour 40 % aux réseaux, les fameuses « autoroutes
+de l‘information ».
+
+Les technologies numériques sont le premier poste de
+consommation électrique au bureau et le second à la maison.
+Le quart des consommations électriques des équipements
+informatiques pourrait être évité. Mais comment ?
+
+Ne laissez pas les appareils ou les veilles allumés en permanence.
+Éteignez-les et débranchez-les ! Pour une absence moins longue,
+mettez-les en veille.
+
+Ne laissez pas votre chargeur branché « à vide » et lorsque votre
+téléphone est arrivé à charge maximale.
+
+Fermez le plus souvent possible l'interrupteur d'alimentation
+de votre box et du récepteur TV (la nuit et pendant la journée
+si vous n'utilisez ni votre box ni la TV). Le redémarrage prendra
+quelques minutes. 43 % des personnes n'éteignent jamais leur
+box et 41 % l'éteignent uniquement en cas d'absence prolongée (Étude « 60 millions de consommateurs » - ADEME).
+
+UNE BOX CONSOMME AUTANT QU'UN RÉFRIGÉRATEUR
+Sa consommation totale sur un an, se situe entre 150 et 300 kWh* : c'est
+autant qu'un grand réfrigérateur ! Une box TV consomme 3 fois ce que
+consomme un téléviseur et une box Internet, 6 fois plus. Une solution
+pour moins consommer d'électricité : ne laissez pas votre box en veille
+si vous ne l'utilisez pas. Vous économiserez ainsi environ 30 € par an.
+
+Limitez le nombre de programmes ou d'onglets ouverts et
+inutilisés.
+
+Désactivez les fonctions localisation, Wifi, Bluetooth sur votre
+téléphone ou votre tablette quand vous ne vous en servez pas,
+ou mettez-vous en mode « avion ».
+
+Désactivez le wifi de votre box dès que vous n'en avez pas
+l'utilité.
+
+Réglez votre ordinateur, et quand c’est possible votre smartphone
+en mode « économies d’énergie » : diminution de la luminosité de
+l’écran, mise en veille automatique après 10 minutes d’inactivité,
+écran de veille noir… Les tablettes sont configurées pour passer en
+veille très rapidement pour une plus grande autonomie.
+
+Branchez vos équipements (ordinateur, imprimante, box…) sur
+une multiprise à interrupteur et éteignez-la. Sinon, même éteints,
+vos équipements continuent à consommer.
+
+Optimiser les impressions
+
+Paradoxalement, le développement du numérique n'a pas encore
+entraîné une diminution très importante de la consommation
+de papier. Réduire les impressions, c’est faire des économies de
+papier, et donc d’argent, de matières premières, d'énergie…
+
+Imprimez seulement ce qui est utile et quand c’est nécessaire,
+même s'il peut être préférable d'imprimer certains documents
+dont la lecture à l'écran prend du temps.
+
+Paramétrez l’imprimante : noir et blanc, brouillon, recto-verso,
+2 pages par face…
+
+Utilisez comme brouillon le papier imprimé sur une seule face.
+
+Évitez d’imprimer des documents gourmands en encre (aplats
+de couleur…).
+
+Et quand vous imprimez, fiez-vous aux labels suivants pour le
+papier : l'Écolabel Européen, l'Écolabel Nordique, l'Ange Bleu ou
+FSC. Pour les cartouches d'encre, privilégiez l'Écolabel Nordique
+et l'Ange Bleu.
+
+PENSEZ-Y DÈS LA CONCEPTION D’UN DOCUMENT
+Rendez-le facile et agréable à lire à l’écran (éviter les lignes
+comportant trop de caractères, espacez vos paragraphes...) :
+votre correspondant aura moins envie de l’imprimer.
+Si votre document est destiné à l'impression, évitez les aplats
+de couleur, très gourmands en encre.
+
+Recycler, c’est impératif !
+
+Les déchets d’équipements électriques et électroniques font
+l’objet d’une collecte et d’un traitement spécifique. Ainsi, les
+appareils informatiques et de télécommunication doivent être
+rapportés dans les magasins (qui ont l'obligation de les reprendre
+même si le produit n'a pas été acheté chez eux) ou en déchèterie.
+
+La plupart des matériaux que contiennent ces équipements sont
+recyclables et réutilisables, voire précieux (or, platine…) ou très
+rares (tantale, lanthane, néodyme, yttrium…). À titre d'exemple,
+on compte 50 à 100 fois plus d'or dans une tonne de cartes
+électroniques que dans 1 tonne de minerai.
+
+D'autres sont dangereux pour l’environnement et la santé (plomb,
+brome, arsenic, chlore, mercure, cadmium…) et doivent être
+traités en conséquence.
+
+ORDINATEUR PORTABLE ET SMARTPHONE : QUELLES COMPOSITIONS ?
+compositions.png
+Source : Eco-systèmes, Oeko-Institut, EcoInfo et Sénat
+
+Ne conservez pas chez vous vos anciens ordinateurs et téléphones :
+ils représentent un précieux gisement de matériaux recyclables.
+On estime que 54 à 113 millions de smartphones dorment dans
+nos placards.
+
+Rapportez-les chez un revendeur en informatique et en
+téléphonie. Vous pouvez aussi les déposer dans les bornes de
+collecte situées dans les grandes surfaces ou en déchèterie.
+
+ordi_tel_usages.png
+Les ordinateurs et téléphones usagés représentent un vrai gisement de matériaux, dont certains rares, d'où l'importance de les recycler !
