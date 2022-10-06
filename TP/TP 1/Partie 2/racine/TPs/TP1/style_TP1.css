@@ -6,10 +6,11 @@
 body {
     /* background: linear-gradient(to top, #3c9ddb, #cbd6e1); */
     background-image: url("./images/gradient-background.png");
-    min-height: 900px;
+    /* min-height: 900px; */
     margin: 0;
     font-family: 'FreeMono', sans-serif;
     font-size: 1.25em;
+    height: 100%;
 }
 
 .box-center {
@@ -90,4 +91,23 @@ h2 {
     background-color: rgb(44, 180, 152);
     color:white;
     padding: 3px;
+}
+
+img {
+    transition: transform 0.2s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.25);
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+footer a {
+    text-decoration: none;
+    color: black;
 }
