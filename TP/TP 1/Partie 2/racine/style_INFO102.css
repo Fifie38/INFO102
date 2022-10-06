@@ -19,14 +19,23 @@ header h1 {
 nav {
     background-color: #fbe2c6;
 }
+nav a {
+    color: #777e81;
+}
+nav ol {
+    list-style-type: circle;
+}
 
 section {
-    background-color: #a9bbc3;
+    background-color: #777e81;
     color: white;
 }
 
-section h1 {
-    padding-top: 2px
+section h2 {
+    margin: 3px 0 3px 0;
+}
+section p {
+    margin: 2px 0 2px 0;
 }
 
 footer {
