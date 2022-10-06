@@ -62,13 +62,14 @@ body {
 .intro a {
     color: black;
     text-decoration: none;
-    transition: padding .3s;
+    transition: padding .1s;
+    transition: margin .2s ease-in-out;
 }
 .intro a:hover {
     background-color: white;
     color: #c6b2fc;
-    padding: 3px 1px 3px 1px;
-    font-size: 1.05em;
+    padding: 2px 1px 2px 1px;
+    margin-left: 45px;
     box-shadow: 5px 2.5px 2.5px 1px black;
 }
 
@@ -76,22 +77,13 @@ body {
     margin-top: 35px;
 }
 .intro h1 {
-    display: inline;
-    position: relative;
+ transition: padding 0.1s ease-in-out;
 }
 
-.intro h1::after{
-    content: "";
-    display: block;
-    position: absolute;
-    width: 0%;
-    height: 3px;
-    background-color: black;
-    transition: width 0.2s ease-in-out;
-}
 
-.intro h1:hover::after {
-    width: 100%;
+
+.intro h1:hover {
+    padding-left: 45px;
 }
 
 h2 {
