@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    color: #fbe2c6;
+    background-color: #3a4c4e;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+
+nav {
+    background-color: #fbe2c6;
+}
+
+section {
+    background-color: #83939a;
+}
+
+footer {
+    background-color: #3a4c4e;
+    color: #fbe2c6;
+}
