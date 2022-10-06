@@ -1,29 +1,44 @@
 @font-face {
     font-family: 'FreeMono';
-    src: url(./) format('truetype');
+    src: url(./FreeMono.otf) format('truetype');
 }
 
 body {
-    background: linear-gradient(to top, #3c9ddb, #cbd6e1);
+    /* background: linear-gradient(to top, #3c9ddb, #cbd6e1); */
+    background-image: url("./images/gradient-background.png");
     min-height: 900px;
+    margin: 0;
+    font-family: 'FreeMono', sans-serif;
+    font-size: 1.25em;
+}
+
+.box-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     width: 80%;
     margin: auto;
-    font-family: 'FreeMono', sans-serif;
 }
 
 .header-main {
-    background-color: #b6c7d9;
+    background-color: #a7ddf7;
     text-align: center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    border-bottom: solid ;
 }
 .header-main:hover{
-    background-color: #8bb7e5;  
+    background-color: #b5cbf9;  
 }
 
 .header-main a {
     color: black;
+    text-decoration: none;
 }
 .header-main p {
-    margin-top: 0;
+    margin: 0;
+    padding: 1px 0 5px 0;
 }
 
 .windows {
@@ -31,24 +46,56 @@ body {
     margin-top: 2em;
 }
 
+.intro {
+    margin-top: 35px;
+}
 .intro ul {
-    background-color: rgb(44, 180, 152);
+    background-color: #f5b2ff;
+    opacity: 95%;
     list-style-type: none;
     padding: 10px;
 }
+.intro li {
+    line-height: 1.45em;
+}
 
 .intro a {
-    color: white;
+    color: black;
     text-decoration: none;
+    transition: padding .3s;
 }
 .intro a:hover {
     background-color: white;
-    color: rgb(44, 180, 152);
+    color: #c6b2fc;
+    padding: 3px 1px 3px 1px;
+    font-size: 1.05em;
+    box-shadow: 5px 2.5px 2.5px 1px black;
 }
+
+.intro p {
+    margin-top: 35px;
+}
+.intro h1 {
+    display: inline;
+    position: relative;
+}
+
+.intro h1::after{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0%;
+    height: 3px;
+    background-color: black;
+    transition: width 0.2s ease-in-out;
+}
+
+.intro h1:hover::after {
+    width: 100%;
+}
+
 h2 {
     background-color: rgb(44, 180, 152);
     color:white;
     padding: 3px;
 }
-
-
