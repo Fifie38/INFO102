@@ -8,6 +8,10 @@ header {
     background-color: #3a4c4e;
 }
 
+a {
+    text-decoration: none;
+}
+
 header h1 {
     margin-bottom: 0;
 }
@@ -18,19 +22,25 @@ nav {
 
 section {
     background-color: #a9bbc3;
+    color: white;
+}
+
+section h1 {
+    padding-top: 2px
 }
 
 footer {
     background-color: #3a4c4e;
     color: #fbe2c6;
+    text-align: center;
 }
 
 footer a {
     color: #fbe2c6;
-    
+}
+footer p {
+    margin: 2px 0 2px 0;
 }
 
-a {
-    text-decoration: none;
-}
+
 
