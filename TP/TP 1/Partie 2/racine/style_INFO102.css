@@ -17,10 +17,20 @@ nav {
 }
 
 section {
-    background-color: #83939a;
+    background-color: #a9bbc3;
 }
 
 footer {
     background-color: #3a4c4e;
     color: #fbe2c6;
 }
+
+footer a {
+    color: #fbe2c6;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
