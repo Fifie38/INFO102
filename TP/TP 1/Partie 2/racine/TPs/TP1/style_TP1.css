@@ -28,6 +28,8 @@ body {
     position: sticky;
     top: 0px;
     border-bottom: solid ;
+    opacity: 85%;
+    z-index: 1;
 }
 .header-main:hover{
     background-color: #b5cbf9;  
@@ -126,3 +128,23 @@ footer a {
     color: black;
 }
 
+h3 {
+    display: inline;
+    position: relative;
+    max-width: max-content;
+}
+
+h3::after {
+    content:"";
+    display: block;
+    position: absolute;
+    width: 100%;
+    background-color: black;
+    height: 2px;
+    transition: all 0.3s ease-in-out;
+    transform: scale(0);
+}
+
+h3:hover::after {
+    transform: scale(100%);
+}
