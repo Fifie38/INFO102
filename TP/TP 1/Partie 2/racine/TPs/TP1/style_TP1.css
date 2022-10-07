@@ -64,13 +64,13 @@ body {
     color: black;
     text-decoration: none;
     transition: padding .1s;
-    transition: margin .2s ease-in-out;
+    transition: margin .25s ease-in-out;
 }
 .intro a:hover {
     background-color: white;
     color: #c6b2fc;
     padding: 2px 1px 2px 1px;
-    margin-left: 45px;
+    margin-left: 75px;
     box-shadow: 5px 2.5px 2.5px 1px black;
 }
 
@@ -78,7 +78,7 @@ body {
     margin-top: 35px;
 }
 .intro h1 {
- transition: padding 0.1s ease-in-out;
+    transition: padding 0.2s ease-in-out;
 }
 
 
@@ -101,6 +101,10 @@ img:hover {
     transform: scale(1.25);
 }
 
+#main-footer {
+    position: absolute;
+    bottom: 0;
+}
 footer {
     position: relative;
     bottom: 0;
@@ -111,3 +115,4 @@ footer a {
     text-decoration: none;
     color: black;
 }
+
