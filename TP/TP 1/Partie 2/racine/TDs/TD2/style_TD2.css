@@ -1,3 +1,133 @@
 body {
-    background-color: red;
+    font-family: sans-serif;
+    font-size: 110%;
+    letter-spacing: 0.1em;
+    line-height: 1.5em;
+    padding: 2em;
 }
+/* CSS created by Fifie38 */
+h1 {
+    font-weight: 800;
+}
+h2 {
+    font-weight: normal;
+    color:white;
+    background-color: rgb(39,176,147);
+    padding: 0.3em;
+    display: inline-block;
+}
+p {
+    text-justify:auto;
+}
+
+/* IMAGE */
+figure {
+    text-align: center;
+    margin:0;
+}
+figcaption {
+    font-size: 90%;
+    font-weight: bold;
+}
+
+/* En savoir plus */
+.enSavoirPlus {
+    font-size: 90%;
+    margin-top: 1em;
+}
+
+.enSavoirPlus > h3 {
+    color: rgb(39,176,147);
+    margin:0;
+}
+
+/* Triangle */
+.triangle {
+    background-image: url("./images/triangle.png");
+    background-repeat: no-repeat;
+    text-indent: 1.5em;
+}
+.question {
+    font-size: 90%;
+    border-left: 10px solid rgb(39,176,147);
+    margin:2em 0;
+    padding-left: 1em;
+}
+.question > h3 {
+    margin: 0;
+}
+
+.question > p {
+    margin:0;
+}
+.question > ul {
+    margin:0;
+    padding-left: 1em;
+}
+
+
+/* Tableaux */
+table {
+    font-size: 90%;
+    block-size: 60%;
+    border-spacing: 0px;
+}
+table > caption {
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 0px;
+}
+th, td {
+    padding: 0.5em;
+}
+th {
+    background-color: rgb(208,208,207);
+}
+td {
+    border: 1px solid rgb(208,208,207);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
