@@ -9,6 +9,4 @@ h1, h2, h3, p, table {
 
 a, img, div {
     background-color: deeppink;
-    padding: 4%;
-    width: 100%;
 }
