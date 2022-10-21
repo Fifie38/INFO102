@@ -1,3 +1,6 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
 body {
     background: aqua;
 }
@@ -89,7 +92,6 @@ body {
     top: 0;
     right: 0;
 }
-
 #flo img {
     float: left;
 }
@@ -100,4 +102,45 @@ body {
 }
 #flo {
     background-color: gray;
+    height: 270px;
+}
+
+#test {
+    height: 850px;
+}
+
+#test h1 {
+    text-align: center;
+    position: sticky;
+    top:0;
+}
+
+#js-section {
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+}
+
+#js-section a {
+    text-decoration: none;
+}
+
+#js-section span {
+    height: 45px;
+    border-radius: 50px;
+    background-color: fuchsia;
+    padding: 15px;
+    color: white;
+}
+
+#js-section span:hover {
+    background-color: rgb(252, 77, 252);
+}
+
+#gerard {
+    position: fixed;
+    top: 15%;
+    width: 100%;
+    visibility: hidden;
+    transition: all 2s ease-in-out;
 }
