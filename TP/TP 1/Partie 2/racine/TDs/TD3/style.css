@@ -1,0 +1,146 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+body {
+    background: aqua;
+}
+
+#flux > p {
+    display: inline;
+}
+
+#flux > img {
+    display: block;
+}
+
+#boite div, #boite span {
+    background-color: deeppink;
+    margin-left: 2em;
+    padding: 1em;
+    height: 100px;
+    border: 1px black solid;
+
+}
+
+/* #boite div {
+    display: inline;
+} */
+
+#rel p {
+    border: 1px black solid;
+    height: 75px;
+}
+
+#rel span {
+    border: 1px black solid;
+}
+
+#posRelBlock {
+    background-color: yellow;
+    position: relative;
+    top: 50px;
+    left: 50px; 
+    z-index: -1;
+}
+
+#posRelInline {
+    background-color: yellow;
+    position: relative;
+    bottom: 50px;
+}
+
+#abs p{
+   border: 1.5px dashed black;
+   height: 50px;
+}
+
+#abs span {
+    border: 1.5px dashed black;
+}
+
+#posAbsBlock {
+    background-color: rgb(51, 255, 0);
+    position: absolute;
+    top: 0;
+    left: 0; 
+}
+#posAbsInline {
+    background-color: rgb(51, 255, 0);
+    position: absolute;
+    top: 0;
+    right:0;
+}
+
+#fix p {
+    border: 1px solid black;
+    height: 65px;
+}
+#fix span {
+    border: solid 1px black;
+}
+
+#posFixBlock {
+    background-color: orange;
+    position: fixed;
+    top: 50%;
+    left: 40%;
+}
+
+#posFixInline {
+    background-color: orange;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+#flo img {
+    float: left;
+}
+
+#flo p  {
+    float: left;
+    width: 75%;
+}
+#flo {
+    background-color: gray;
+    height: 270px;
+}
+
+#test {
+    height: 850px;
+}
+
+#test h1 {
+    text-align: center;
+    position: sticky;
+    top:0;
+}
+
+#js-section {
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+}
+
+#js-section a {
+    text-decoration: none;
+}
+
+#js-section span {
+    height: 45px;
+    border-radius: 50px;
+    background-color: fuchsia;
+    padding: 15px;
+    color: white;
+}
+
+#js-section span:hover {
+    background-color: rgb(252, 77, 252);
+}
+
+#gerard {
+    position: fixed;
+    top: 15%;
+    width: 100%;
+    visibility: hidden;
+    transition: all 2s ease-in-out;
+}
