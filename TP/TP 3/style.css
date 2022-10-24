@@ -1,43 +1,57 @@
 body {
-    margin: 0;
+    background-color: red;
+    margin:0;
 }
 
-header, footer{
+header {
+    height: 100px;
+}
+header, footer {
     background-color: #344648;
     text-align: center;
-    color:  #fbe0c3;
-    padding: 20px;
-    position: relative;
 }
 
-header > img {
-    position: absolute;
-    left: 7%;
-    top: 10px;
+header h1 {
+    display: inline-block;
+}
+header img {
+    float: left;
 }
 
-main {
-    display: flex;
-    }
+section, aside, nav {
+    float: left;
+    height: 450px;
+}
 
-main > * {
-    flex-grow: 1;
-    flex-basis: 0;
-    padding: 15px;
+header, section, aside, footer, nav {
+    padding: 1%;
 }
 
 nav {
-    order:-1;
     background-color: #fbe0c3;
     color: #7d8e95;
+    width: 25%;
+}
+
+nav a {
+    display: block;
 }
 
 section {
     background-color: #7d8e95;
     color: white;
+    width: 44%;
 }
 aside {
     background-color: #ffbb98;
     color: white;
+    width: 25%;
 }
 
+main {
+    position: relative;
+}
+
+footer {
+    clear: both;
+}
