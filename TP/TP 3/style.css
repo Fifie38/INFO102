@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+header, footer{
+    background-color: #344648;
+    text-align: center;
+    color:  #fbe0c3;
+    padding: 20px;
+    position: relative;
+}
+
+header > img {
+    position: absolute;
+    left: 7%;
+    top: 10px;
+}
+
+main {
+    display: flex;
+    }
+
+main > * {
+    flex-grow: 1;
+    flex-basis: 0;
+    padding: 15px;
+}
+
+nav {
+    order:-1;
+    background-color: #fbe0c3;
+    color: #7d8e95;
+}
+
+section {
+    background-color: #7d8e95;
+    color: white;
+}
+aside {
+    background-color: #ffbb98;
+    color: white;
+}
+
