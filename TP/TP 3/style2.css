@@ -7,7 +7,6 @@ header, footer{
     text-align: center;
     color:  #fbe0c3;
     padding: 20px;
-    position: relative;
 }
 
 header > img {
@@ -21,8 +20,6 @@ main {
     }
 
 main > * {
-    flex-grow: 1;
-    flex-basis: 0;
     padding: 15px;
 }
 
@@ -30,14 +27,23 @@ nav {
     order:-1;
     background-color: #fbe0c3;
     color: #7d8e95;
+    flex:1;
 }
 
 section {
     background-color: #7d8e95;
     color: white;
+    flex: 2;
 }
 aside {
     background-color: #ffbb98;
     color: white;
+    flex:1;
+}
+
+@media(max-width: 800px) {
+    main {
+        flex-direction: column;
+    }
 }
 
