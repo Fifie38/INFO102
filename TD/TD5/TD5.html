@@ -2,35 +2,74 @@
 <html lang="fr">
 
 <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="./style_TD5.css">
-  <title>TD5</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./style_TD5.css">
+    <title>TD5</title>
 </head>
 
 
 
 <body>
-  <h1>TD5</h1>
-  <form>
-    <p>
-      <label for="nombre1">Saisir un nombre1 : </label>
-      <input type="number" id="nombre1" name="nombre1" />
-    </p>
-    <p>
-      <label for="nombre2">Saisir un nombre2 : </label>
-      <input type="number" id="nombre2" name="nombre2" />
-    </p>
-    <p>
-      <input id="moyenne" type="button" value="moyenne" />
-    </p>
-    <p>
-      Moyenne : <strong id="resultat"></strong>
-    </p>
-  </form>
+    <h1>TD5</h1>
+    <h2>Formulaire 2</h2>
+    <form>
+        <p>
+            <label for="nombre1">Saisir un nombre1 : </label>
+            <input type="number" id="nombre1" name="nombre1" />
+        </p>
+        <p>
+            <label for="nombre2">Saisir un nombre2 : </label>
+            <input type="number" id="nombre2" name="nombre2" />
+        </p>
+        <p>
+            <input id="moyenne" type="button" value="moyenne" />
+        </p>
+        <p>
+            Moyenne : <strong id="resultat"></strong>
+        </p>
+    </form>
+
+    <h2>Formulaire 3</h2>
+    <h2>Drapeau</h2>
+    <form>
+        <p>
+            <label for="vitesse-vent">Vitesse du vent : </label>
+            <select name="vitesse" id="vitesse-vent">
+              <option value="zero">De 0 à 20 km/h</option>
+              <option value="vingt">De 20 à 40 km/h</option>
+              <option value="quarante">Supérieur à 40 km/h</option>
+            </select>
+        </p>
+        <p>
+            <label for="etat_mer">Etat de la mer : </label>
+            <select name="mer" id="etat_mer">
+              <option value="calme">calme</option>
+              <option value="agitee">agitee</option>
+              <option value="tres_agitee">tres agitee</option>
+            </select>
+        </p>
+        <p>
+            <input type="button" id="drapeau" value="Calculer">
+        </p>
+        <p>
+            Couleur du drapeau : <span id="resultat3"></span>
+        </p>
+    </form>
+
+    <h2>background-image</h2>
+    <ul id="menu">
+        <li id="1">Banana fish</li>
+        <li id="2">Hunter x hunter</li>
+        <li id="3">Made in abyss</li>
+        <li id="4">My hero academia</li>
+        <li id="5">One piece</li>
+        <li id="6">Tokyo ghoul</li>
+        <li id="7">SNK</li>
+    </ul>
 
 
-  <script src="./script_TD5.js"></script>
 
+    <script src="./script_TD5.js"></script>
 </body>
 
 
