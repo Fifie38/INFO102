@@ -1,3 +1,8 @@
+
+body {
+    background: no-repeat;
+}
+
 h1 {
     color: blue;
 }
@@ -6,3 +11,18 @@ h1 {
     padding: 25px;
     color: white;
 }
+
+.cont {
+    position: relative;
+}
+
+#info-bulle {
+    position: absolute;
+    background-color: gainsboro;
+    top: -50px;
+    left: 150px;
+    padding: 35px;
+    border-radius: 15px;
+    visibility: hidden;
+}
+

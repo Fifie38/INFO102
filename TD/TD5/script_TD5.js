@@ -28,8 +28,12 @@ const vitesse_vent = document.getElementById("vitesse-vent");
 const etat_mer = document.getElementById("etat_mer");
 const drapeau = document.getElementById("drapeau");
 const res3 = document.getElementById("resultat3");
-// Formulaire 4
+// Exercice 4
 const ul = document.getElementById("menu");
+// Exercice 5
+const myImage = document.getElementById("image");
+const infoBulle = document.getElementById("info-bulle");
+
 
 
 // -------------------------------------------------------------------------------
@@ -62,10 +66,15 @@ drapeau.addEventListener("click", () => {
     }
 });
 
-// Formulaire 4
+// Exercice 4
 ul.addEventListener("click", (e) => {
-    const li = e.srcElement.innerHTML.replace(' ', '_');
-    console.log(li.replace(' ', '_'));
+    const li = e.srcElement.innerHTML.replaceAll(' ', '_');
+    document.body.style.backgroundImage = "url('./images/"+ li + ".jpg')";
+});
 
-    document.body.style.backgroundImage = "url('./images/'+'li.replace(' ', '_') '.jpg')";
+
+// Exercice 5
+myImage.addEventListener("click", (e) => {
+    infoBulle.innerHTML = e.explicitOriginalTarget.alt;
+    infoBulle.style.visibility = 'visible';
 });
