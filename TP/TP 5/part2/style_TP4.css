@@ -1,0 +1,31 @@
+body {
+	background-color: #ddd;
+}
+
+#dessin {
+	background-color: #ddd;
+}
+
+#couleurs {
+	background-color: #ccc;
+}
+
+#traits {
+	background-color: #bbb;
+}
+
+#dessin {
+	
+}
+
+#couleurs, #traits {
+	
+}
+
+.couleur, .trait {
+	
+}
+
+.couleur:hover, .trait:hover {
+	
+}
