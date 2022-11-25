@@ -30,8 +30,27 @@ body {
 
 .couleur, .trait {
 	margin: 0 7px 7px 0;	
+	padding: 2px;
 }
 
 .couleur:hover, .trait:hover {
-	border: solid 2.5px white
+	background-color: white;
+	cursor: pointer;
+}
+
+#reset-box {
+	margin-top: 25px;
+	font-size: 35px;
+	text-align:center;
+}
+
+#reset {
+	cursor: pointer;
+	border: solid 2px black;
+	padding: 7px;
+	transition: 0.3s;
+}
+
+#reset:hover {
+	background-color: #ccc;
 }
