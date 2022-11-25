@@ -2,8 +2,6 @@ var zone_dessin = document.getElementById("dessin");
 var ctx = zone_dessin.getContext('2d');
 
 const reset = document.getElementById("reset");
-console.log(reset);
-
 
 var en_dessin = false;
 
