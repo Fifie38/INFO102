@@ -6,7 +6,6 @@
 body {
     margin:0;
     overflow: hidden;
-    padding: 20px;
 }
 
 #fond {
@@ -99,7 +98,7 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: calc(100vh - 40px);
+    height: 100vh;
 }
 
 .vitrine > * {
@@ -142,6 +141,7 @@ transition: 0.15s ;
     list-style: none;
     text-decoration: none;
     font-size: 1.5em;
+    color: #111;
 }
 
 .menu.afficheMenu {
