@@ -1,31 +1,37 @@
 body {
 	background-color: #ddd;
+	margin: 0;
+}
+
+#container {
+	display: flex;
 }
 
 #dessin {
 	background-color: #ddd;
+	border: solid 1px black;
+	order: 1;
 }
 
 #couleurs {
-	background-color: #ccc;
+	order: 0;
 }
+
 
 #traits {
-	background-color: #bbb;
+	order: 2;
 }
 
-#dessin {
-	
-}
 
 #couleurs, #traits {
-	
+	display: flex;
+	flex-direction: column;
 }
 
 .couleur, .trait {
-	
+	margin: 0 7px 7px 0;	
 }
 
 .couleur:hover, .trait:hover {
-	
+	border: solid 2.5px white
 }

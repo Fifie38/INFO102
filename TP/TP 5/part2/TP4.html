@@ -1,34 +1,42 @@
 <!doctype html>
 <html lang="fr">
+
 <head>
   <meta charset="utf-8">
   <title>TP4</title>
+  <link rel="stylesheet" href="./style_TP4.css">
 </head>
 
 
 
 <body>
 
-<h1>TP4 - dessin avec <em>Canvas</em></h1>
+  <h1>TP4 - dessin avec <em>Canvas</em></h1>
 
-<div id="container">
+  <div id="container">
 
-<canvas id="dessin" width="640" height="480"></canvas>
+    <canvas id="dessin" width="640" height="480"></canvas>
 
-<div id="couleurs">
-  <img class="couleur" src="couleur_rouge.png" alt="red" />
-  <img class="couleur" src="couleur_vert.png" alt="lime" />
-  <img class="couleur" src="couleur_bleu.png" alt="blue" />
-</div>
+    <div id="couleurs">
+      <img class="couleur" src="couleur_rouge.png" alt="red" />
+      <img class="couleur" src="couleur_vert.png" alt="lime" />
+      <img class="couleur" src="couleur_bleu.png" alt="blue" />
+    </div>
 
-<div id="traits">
-  <img class="trait" src="point_noir_1.png" alt="taille 1" />
-  <img class="trait" src="point_noir_2.png" alt="taille 2" />
-  <img class="trait" src="point_noir_3.png" alt="taille 3" />
-</div>
+    <div id="traits">
+      <img class="trait" src="point_noir_1.png" alt="taille 1" />
+      <img class="trait" src="point_noir_2.png" alt="taille 2" />
+      <img class="trait" src="point_noir_3.png" alt="taille 3" />
+    </div>
 
-</div><!-----container------->
+  </div>
+  
+  <div id="reset">
+    <span id="reset">Reset le dessin</span>
+  </div>
 
+
+  <script src="./script_TP4.js"></script>
 </body>
 
 
