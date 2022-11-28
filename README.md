@@ -9,7 +9,8 @@ Tous les cours, TDs et TPs faits.
 
 La version finale du site web est upload là :
 
-https://fluffy-mousse-849ae2.netlify.app/
+https://lucky-gumdrop-d6ac24.netlify.app/
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
