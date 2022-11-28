@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple 9</title>
+</head>
+
+<body>
+<section>
+  <h2>Exemple 9</h2>
+  <p class="para">
+	Un premier paragraphe
+  </p>
+  <p class="para">
+	Un deuxième paragraphe
+  </p>
+  <div class="para">
+	Un div 
+  </div>
+</section>
+</body>
+</html>
+
+<script>
+  nouveauParagraphe = document.createElement("p");
+  nouveauParagraphe.innerHTML = "Un troisième paragraphe";
+  nouveauParagraphe.setAttribute("class","para")
+  
+  console.log(nouveauParagraphe) //l'élément est créé mais pas encore visible sur la page web
+	
+  parent = document.querySelector("section");
+	
+  parent.appendChild(nouveauParagraphe); //l'élement est rajouté après le dernier élément de parent 
+	
+  div = document.querySelector("div");
+  parent.insertBefore(nouveauParagraphe,div); //l'élément est inséré avant le div
+	
+  parent.removeChild(document.querySelector("div")); //le div est supprimé 
+	
+  console.log(parent);
+</script>

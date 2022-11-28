@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple 10</title>
+ </head>
+
+<body>
+<section>
+  <h2>Exemple 10</h2>
+  <img src="logo_js.png" class="image" alt="logo JavaScript" />
+  <img src="logo_js.png" class="image" alt="2e logo JavaScript" />
+</section>
+</body>
+</html>
+
+<script>	
+  elts = document.querySelectorAll(".image");
+  parent = document.querySelector("section");
+  //console.log(elts);
+  for (var i=0; i<elts.length ; i++){ //ajoute les évènements sur les images
+	//console.log(elts[i]);
+	elts[i].addEventListener("mouseenter",montreBulle);
+	elts[i].addEventListener("mouseleave",cacheBulle);
+  }
+	
+  function montreBulle(evt){
+	var bulle = document.createElement("span");
+	bulle.innerHTML = evt.target.getAttribute("alt");
+	bulle.className = "bulle";
+	//console.log(bulle);
+	parent.insertBefore(bulle,evt.target.nextElementSibling);
+  }
+	
+  function cacheBulle(){
+	parent.removeChild(document.querySelector(".bulle"));
+  }
+</script>

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple 8</title>
+  <style>
+    .bleu {
+		color: blue;
+	}
+	.noir {
+		color: black;
+	}
+  </style>
+</head>
+
+<body>
+<section>
+  <h2>Exemple <span id="numero">8</span></h2>
+  <p class="para">
+	Un premier paragraphe
+  </p>
+  <p class="para">
+	Un deuxième paragraphe
+  </p>
+  <div class="para noir">
+	Un div qui peu changer de couleur si je clique dessus
+  </div>
+</section>
+</body>
+</html>
+
+<script>
+  console.log(document.querySelector("section").innerHTML);
+  console.log(document.querySelector("section").outerHTML);
+  console.log(document.querySelector("section").innerText);
+  
+  console.log(getComputedStyle(document.querySelector("p")));
+  
+  document.querySelector("#numero").style.color = "red";
+
+  elt = document.querySelector("div")
+  elt.onclick = function(){
+	if (elt.className == "para noir") {
+	  elt.className = "para bleu";
+	} else {
+	  elt.className = "para noir";
+	}
+	console.log(document.querySelector("div").className);
+  }
+  /*
+  document.querySelector("section").onclick = function(evt){
+	evt.target.style.color = "red";
+  }
+  */
+  //document.querySelector("section").innerHTML = "<strong>j'ai tout remplacé !</strong>"
+</script>
