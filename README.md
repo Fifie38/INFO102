@@ -14,3 +14,6 @@ https://fluffy-mousse-849ae2.netlify.app/
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Preview
+
+![arborescence](https://github.com/Fifie38/INFO102/blob/main/arborescence-site-INFO102.png)
