@@ -1,0 +1,150 @@
+@font-face {
+    font-family: 'FreeMono';
+    src: url(./FreeMono.otf) format('truetype');
+}
+
+body {
+    /* background: linear-gradient(to top, #3c9ddb, #cbd6e1); */
+    background-image: url("./images/gradient-background.png");
+    /* min-height: 900px; */
+    margin: 0;
+    font-family: 'FreeMono', sans-serif;
+    font-size: 1.25em;
+    height: 100%;
+}
+
+.box-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.header-main {
+    background-color: #a7ddf7;
+    text-align: center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    border-bottom: solid ;
+    opacity: 85%;
+    z-index: 1;
+}
+.header-main:hover{
+    background-color: #b5cbf9;  
+}
+
+.header-main a {
+    color: black;
+    text-decoration: none;
+}
+.header-main p {
+    margin: 0;
+    padding: 1px 0 5px 0;
+}
+
+.windows {
+    border: 6px double #fff;
+    margin-top: 2em;
+}
+
+.intro {
+    margin-top: 35px;
+}
+.intro ul {
+    background-color: #f5b2ff;
+    opacity: 95%;
+    list-style-type: none;
+    padding: 10px;
+}
+.intro li {
+    line-height: 1.65em;
+}
+
+.intro a {
+    color: black;
+    text-decoration: none;
+    transition: padding .1s;
+    transition: margin .25s ease-in-out;
+}
+.intro a:hover {
+    background-color: white;
+    color: #c6b2fc;
+    padding: 2px 2px 2px 2px;
+    margin-left: 75px;
+    box-shadow: 5px 2.5px 2.5px 1px black;
+}
+
+.intro p {
+    margin-top: 35px;
+}
+.intro h1 {
+    transition: padding 0.2s ease-in-out;
+}
+
+
+
+.intro h1:hover {
+    padding-left: 45px;
+}
+
+h2 {
+    background-color: rgb(44, 180, 152);
+    color:white;
+    padding: 3px;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 7px;
+}
+
+img {
+    transition: all 0.2s ease-in-out;
+    filter: grayscale(100%);
+}
+
+img:hover {
+    transform: scale(1.01);
+    filter: grayscale(0%);
+}
+
+#main-footer {
+    position: absolute;
+    bottom: 0;
+}
+footer {
+    position: relative;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+h3 {
+    display: inline;
+    position: relative;
+    max-width: max-content;
+}
+
+h3::after {
+    content:"";
+    display: block;
+    position: absolute;
+    width: 100%;
+    background-color: black;
+    height: 2px;
+    transition: all 0.3s ease-in-out;
+    transform: scale(0);
+}
+
+h3:hover::after {
+    transform: scale(100%);
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple 4</title>
+  <script>
+	function fact(n){
+	  var f = 1
+	  for (var i=2; i<=n; i=i+1){
+		f = f*i;
+	  }
+	  return f
+	}
+  </script>
+</head>
+
+<body>
+  <h1>Exemple 4</h1>
+  <p>
+    <label for="nombre">Saisir un nombre : </label>
+	<input type="number" id="nombre" name="nombre" />
+  </p>
+  <p>
+	<input 
+	  id="fact" 
+      type="button" 
+	  value="fact" 
+	  onclick="
+		n = document.getElementById('nombre');
+		document.write(fact(n.value));
+	  " 
+	/>
+  </p>
+</body>
+</html>
+

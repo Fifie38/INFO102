@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple 3</title>
+</head>
+
+<body>
+  <h1>Exemple 3</h1>
+  <p>
+	<label for="prenom">Prénom : </label>
+	<input type="text" id="prenom" name="prenom" />
+  </p>
+  <p>
+	<input 
+	  id="recupPrenom" 
+	  type="button" 
+	  value="récup prénom" 
+	  onclick="
+	    var p = document.getElementById('prenom');
+		document.write('Hello ' + p.value);
+	  " 
+	/>
+  </p>
+</body>
+</html>

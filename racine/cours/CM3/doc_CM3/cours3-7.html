@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple 7</title>
+</head>
+
+<body>
+  <section>
+  <h2>Exemple <span id="numero">7</span></h2>
+  <p class="para">
+	Un premier paragraphe
+  </p>
+  <p class="para">
+	Un deuxième paragraphe
+  </p>
+  <div class="para">
+	Un div
+  </div>
+  </section>
+</body>
+</html>
+
+<script>
+  // accès par id
+  console.log(document.getElementById("numero")); //HTMLElement
+  //accés par classe
+  console.log(document.getElementsByClassName("para")); //tableau HTMLCollection
+  console.log(document.getElementsByClassName("para")[2]); //HTMLElement
+  //accès par sélecteur CSS
+  console.log(document.querySelectorAll(".para")); //tableau NodeList
+  console.log(document.querySelectorAll(".para")[0]); //HTMLElement
+  console.log(document.querySelector(".para")); //HTMLElement
+  //accès aux "enfants"
+  console.log(document.querySelector("section").childNodes); //tableau NodeList
+  console.log(document.querySelector("section").firstElementChild); //HTMLElement
+  console.log(document.querySelector("section").lastElementChild); //HTMLElement
+  //accès aux "frères"
+  console.log(document.querySelector("h2").nextElementSibling); //HTMLElement
+  console.log(document.querySelector("h2").previousElementSibling); //HTMLElement
+  //accès aux "parents"
+  console.log(document.querySelector("section").parentElement); //HTMLElement
+</script>

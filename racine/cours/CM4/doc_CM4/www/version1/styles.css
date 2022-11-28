@@ -1,0 +1,46 @@
+body {
+	font-family: sans-serif;
+}
+
+section {
+	width: 640px;
+	margin: 0 auto;
+	background-color: #1e847f;
+	padding: 1em;
+	border-radius: 20px;
+}
+
+h1 {
+	color: #ecc19c;
+}
+
+ul {
+	list-style-type: none;
+	padding:0;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ecc19c;
+}
+
+
+img {
+	width: 200px;
+	float: left;
+	margin-right: 1em;
+}
+
+p {
+	text-align: justify;
+	color: white;
+}
+
+footer {
+	text-align: center;
+	font-size: small;
+}
