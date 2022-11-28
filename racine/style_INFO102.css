@@ -33,6 +33,7 @@ section {
     background-color: #777e81;
     color: white;
     padding: 45px ;
+    min-height: 45vh;
 }
 
 section h2 {
@@ -47,6 +48,7 @@ footer {
     background-color: #3a4c4e;
     color: #fbe2c6;
     text-align: center;
+    padding: 15px;
 }
 
 footer a {
