@@ -108,3 +108,15 @@ nav {
 .menu-deroulant:hover a::after {
     transform: rotate(90deg);
 }
+
+#contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 75vh;
+}
+
+#contact a {
+    color: white;
+    font-size: 2em;
+}
